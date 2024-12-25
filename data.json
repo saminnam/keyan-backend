@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "How to Manage Your Remote Team?",
+        "category": "Technology",
+        "image": "https://cdn.rareblocks.xyz/collection/celebration/images/blog/1/blog-post-1.jpg",
+        "description": "Learn effective strategies for managing a remote team successfully.",
+        "author": "Martin Jones",
+        "date": "June 12, 2021"
+    },
+    {
+        "id": 2,
+        "title": "6 Product Launching Emails for Your Next Campaign",
+        "category": "Marketing",
+        "image": "https://cdn.rareblocks.xyz/collection/celebration/images/blog/1/blog-post-2.jpg",
+        "description": "Craft compelling product launch emails that convert.",
+        "author": "Martin Jones",
+        "date": "June 12, 2021"
+    },
+    {
+        "id": 3,
+        "title": "7 Email Marketing Ideas You Can Use",
+        "category": "Marketing",
+        "image": "https://cdn.rareblocks.xyz/collection/celebration/images/blog/1/blog-post-3.jpg",
+        "description": "Discover innovative email marketing strategies from the best.",
+        "author": "Martin Jones",
+        "date": "June 12, 2021"
+    },
+    {
+        "id": 4,
+        "title": "The Future of Software Development: Trends to Watch",
+        "category": "Technology",
+        "image": "https://th.bing.com/th/id/OIP.9Tp1gw9fKiw0dq58apwS7wHaEc?rs=1&pid=ImgDetMain",
+        "description": "Stay ahead of the curve with the latest software development trends.",
+        "author": "Martin Jones",
+        "date": "July 5, 2021"
+    },
+    {
+        "id": 5,
+        "title": "How to Improve Your Coding Skills?",
+        "category": "Technology",
+        "image": "https://cdn.rareblocks.xyz/collection/celebration/images/blog/1/blog-post-3.jpg",
+        "description": "Effective techniques to enhance your programming skills.",
+        "author": "Martin Jones",
+        "date": "July 19, 2021"
+    }
+]
